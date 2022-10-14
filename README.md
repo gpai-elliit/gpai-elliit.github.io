@@ -23,6 +23,10 @@ Prof. Håkan Grahn (PI) | Prof. Christoph Kessler (co-PI) | Assoc. Prof. Jörn J
 Assist. Prof. Anton Borg | Dr. August Ernstsson | Assoc. Prof. Flavius Gruian
 Christoffer Åleskog, Ph.D. student | Sehrish Qummar, Ph.D. student | Michail Boulasikis, Ph.D. student 
 
+![BTH Logo](/images/bthlogo_svart_2024.png)
+![LiU Logo](/images/LiU_primary_black.png)
+![LU Logo](/images/LundUniversity_C2line_BLACK.png)
+
 <!---
 - 👋 Hi, I’m @gpai-elliit
 - 👀 I’m interested in ...
