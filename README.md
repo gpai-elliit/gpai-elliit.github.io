@@ -1,5 +1,9 @@
 
-## Web pages for the project: GPAI - General Purpose AI Computing
+## GPAI - General Purpose AI Computing
+
+### About
+
+AI hardware accelerators are starting to be commonplace today and we foresee they will evolve by integrating more general- purpose friendly features, similar to the way GPUs evolved into GPGPUs more than a decade ago. Contemporary accelerators are highly parallel, specialized, and often limited-precision devices with higher performance per Watt than general CPUs and they are targeting a relatively narrow application domain, i.e., neural networks (deep learning) processing. We will address the challenges involved when using these AI accelerators for more general processing by (i) novel hardware and system software techniques, (ii) suitable computational models, and (iii) domain-specific programming models, languages and tools.
 
 ### Funding
 
