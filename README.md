@@ -22,9 +22,9 @@ ELLIIT - Excellence Center at Linköping - Lund in Information Technology, 2021-
   <tr> <td>Prof. Håkan Grahn (PI)</td> <td>Prof. Christoph Kessler (co-PI)</td> <td>Assoc. Prof. Jörn Janneck (co-PI)</td> </tr>
   <tr> <td>Assist. Prof. Anton Borg</td> <td>Dr. August Ernstsson</td> <td>Assoc. Prof. Flavius Gruian</td> </tr>
   <tr> <td>Christoffer Åleskog, Ph.D. student</td> <td>Sehrish Qummar, Ph.D. student</td> <td>Michail Boulasikis, Ph.D. student</td> </tr>
-  <tr> <td><img align="center" src="/images/bthlogo_svart_2024.png" alt="BTH Logo" width="150"/></td> 
-       <td><img align="center" src="/images/LiU_secondary_1_black.png" alt="LiU Logo" width="200"/></td> 
-       <td><img align="center" src="/images/LundUniversity_C2line_BLACK.png" alt="LU Logo" width="120"/></td> </tr>
+  <tr> <td align="center"><img src="/images/bthlogo_svart_2024.png" alt="BTH Logo" width="150"/></td> 
+       <td align="center"><img src="/images/LiU_secondary_1_black.png" alt="LiU Logo" width="200"/></td> 
+       <td align="center"><img src="/images/LundUniversity_C2line_BLACK.png" alt="LU Logo" width="120"/></td> </tr>
 </table>
 
 
