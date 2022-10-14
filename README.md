@@ -7,7 +7,7 @@ AI hardware accelerators are starting to be commonplace today and we foresee the
 
 ### Funding
 
-ELLIIT - Excellence Center at Linköping - Lund in Information Technology, 2021-2025
+<a href="https://elliit.se/">ELLIIT</a> - Excellence Center at Linköping - Lund in Information Technology, 2021-2025
 
 ### Partners
 
