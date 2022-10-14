@@ -22,11 +22,9 @@ BTH | LIU | LU
 Prof. Håkan Grahn (PI) | Prof. Christoph Kessler (co-PI) | Assoc. Prof. Jörn Janneck
 Assist. Prof. Anton Borg | Dr. August Ernstsson | Assoc. Prof. Flavius Gruian
 Christoffer Åleskog, Ph.D. student | Sehrish Qummar, Ph.D. student | Michail Boulasikis, Ph.D. student 
-
-
-<img src="/images/bthlogo_svart_2024.png" alt="BTH Logo" height="200"/>
-<img src="/images/LiU_secondary_1_black.png" alt="LiU Logo" height="220"/>
-<img src="/images/LundUniversity_C2line_BLACK.png" alt="LU Logo" height="180"/>
+<img src="/images/bthlogo_svart_2024.png" alt="BTH Logo" width="150"/> |
+<img src="/images/LiU_secondary_1_black.png" alt="LiU Logo" width="200"/> |
+<img src="/images/LundUniversity_C2line_BLACK.png" alt="LU Logo" width="120"/>
 
 <!---
 <img src="/images/bthlogo_svart_2024.png" alt="BTH Logo" width="200"/>
