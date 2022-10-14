@@ -7,7 +7,7 @@ AI hardware accelerators are starting to be commonplace today and we foresee the
 
 ### Funding
 
-ELLIIT - Excellence Center at Linköping - Lund in Information Technology
+ELLIIT - Excellence Center at Linköping - Lund in Information Technology, 2021-2025
 
 ### Partners
 
@@ -15,6 +15,12 @@ ELLIIT - Excellence Center at Linköping - Lund in Information Technology
 * Linköping University (LiU)
 * Lund University (LU)
 
+### People
+
+BTH | LIU | LU
+----|-----|---
+Prof. Håkan Grahn (PI) | Prof. Christoph Kessler (co-PI) | Assoc. Prof. Jörn Janneck
+Assist. Prof. Anton Borg | Dr. August Ernstsson | Assoc. Prof. Flavius Gruian
 
 <!---
 - 👋 Hi, I’m @gpai-elliit
