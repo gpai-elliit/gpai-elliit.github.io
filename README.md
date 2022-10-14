@@ -21,6 +21,7 @@ BTH | LIU | LU
 ----|-----|---
 Prof. Håkan Grahn (PI) | Prof. Christoph Kessler (co-PI) | Assoc. Prof. Jörn Janneck
 Assist. Prof. Anton Borg | Dr. August Ernstsson | Assoc. Prof. Flavius Gruian
+Christoffer Åleskog, Ph.D. student | Sehrish Qummar, Ph.D. student | Michail Boulasikis, Ph.D. student 
 
 <!---
 - 👋 Hi, I’m @gpai-elliit
