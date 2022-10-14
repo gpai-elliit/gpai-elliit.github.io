@@ -25,7 +25,7 @@ Christoffer Åleskog, Ph.D. student | Sehrish Qummar, Ph.D. student | Michail Bo
 
 
 <img src="/images/bthlogo_svart_2024.png" alt="BTH Logo" height="200"/>
-<img src="/images/LiU_secondary_1_black.png" alt="LiU Logo" height="200"/>
+<img src="/images/LiU_secondary_1_black.png" alt="LiU Logo" height="250"/>
 <img src="/images/LundUniversity_C2line_BLACK.png" alt="LU Logo" height="150"/>
 
 <!---
