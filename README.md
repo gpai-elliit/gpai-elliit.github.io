@@ -1,21 +1,40 @@
+<head>
+  <title>GPAI - General Purpose AI Computing</title>
+  <style>
+    body {
+      background-color: #D6D6D6;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 14px;
+    }
+    a:link {
+      color: #000000;
+      text-decoration: underline;
+    }
+    a:visited {
+      /* keep the black color also after visiting the link */
+      color: #000000;
+      text-decoration: underline;
+    }
+  </style>
+</head>
 
-## GPAI - General Purpose AI Computing
+<h2>GPAI - General Purpose AI Computing</h2>
 
-### About
+<h3>About</h3>
 
 AI hardware accelerators are starting to be commonplace today and we foresee they will evolve by integrating more general- purpose friendly features, similar to the way GPUs evolved into GPGPUs more than a decade ago. Contemporary accelerators are highly parallel, specialized, and often limited-precision devices with higher performance per Watt than general CPUs and they are targeting a relatively narrow application domain, i.e., neural networks (deep learning) processing. We will address the challenges involved when using these AI accelerators for more general processing by (i) novel hardware and system software techniques, (ii) suitable computational models, and (iii) domain-specific programming models, languages and tools.
 
-### Funding
+<h3>Funding</h3>
 
 <a href="https://elliit.se/">ELLIIT</a> - Excellence Center at Linköping - Lund in Information Technology, 2021-2025
 
-### Partners
+<h3>Partners</h3>
 
 * Blekinge Institute of Technology (BTH)
 * Linköping University (LiU)
 * Lund University (LU)
 
-### People
+<h3>People</h3>
 
 <table border=0>
   <tr><th>BTH</th> <th>LiU</th> <th>LU</th> </tr>
