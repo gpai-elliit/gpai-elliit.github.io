@@ -5,11 +5,6 @@
       font-family: Verdana, Arial, Helvetica, sans-serif;
       font-size: 14px;
     }
-    table {
-      background-color: #D6D6D6;
-      font-family: Verdana, Arial, Helvetica, sans-serif;
-      font-size: 14px;
-    }
     a:link {
       color: #000000;
       text-decoration: underline;
@@ -40,7 +35,7 @@ AI hardware accelerators are starting to be commonplace today and we foresee the
 
 <h3>People</h3>
 
-<table border=0>
+<table border=0 style="background-color: #D6D6D6;border:1px solid black;">
   <tr><th>BTH</th> <th>LiU</th> <th>LU</th> </tr>
   <tr> <td>Prof. Håkan Grahn (PI)</td> <td>Prof. Christoph Kessler (co-PI)</td> <td>Assoc. Prof. Jörn Janneck (co-PI)</td> </tr>
   <tr> <td>Assist. Prof. Anton Borg</td> <td>Dr. August Ernstsson</td> <td>Assoc. Prof. Flavius Gruian</td> </tr>
