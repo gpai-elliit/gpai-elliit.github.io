@@ -1,7 +1,11 @@
 <head>
-  <title>GPAI - General Purpose AI Computing</title>
   <style>
     body {
+      background-color: #D6D6D6;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 14px;
+    }
+    table {
       background-color: #D6D6D6;
       font-family: Verdana, Arial, Helvetica, sans-serif;
       font-size: 14px;
